@@ -185,4 +185,8 @@ It also creates:
 
 ## Author
 
-Replace this section with your name, course, university, and GitHub profile.
+**Siddhartha Jaiswal**
+
+*Vit Bhopal University*
+
+*A computer vision mini project.*
